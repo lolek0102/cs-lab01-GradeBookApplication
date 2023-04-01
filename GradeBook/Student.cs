@@ -19,7 +19,7 @@ namespace GradeBook
             get
             {
                 return Grades.Average();
-                console.writeline("XDDDD");
+                
             }
         }
         [JsonIgnore]
